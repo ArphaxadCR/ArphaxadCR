@@ -4,7 +4,7 @@ Hola 👋, soy Alberto Arphaxad, licenciado en Ciencias Computacionales con form
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/alberto-arphaxad-calderon-romero-239a7a1b9)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alberto-arphaxad-calderon-romero-239a7a1b9)
 
 # 💻 Tech Stack:
 
