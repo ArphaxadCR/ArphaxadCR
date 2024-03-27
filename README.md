@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hola 👋, soy Alberto Arphaxad, licenciado en Ciencias Computacionales con formación para desarrollo web 🧑🏻‍💻<br><br>Actualmente me encuentro en formación aprendiendo y asentando tecnologías como 💻:<br><br>_ Javascript<br>_ Tailwind CSS<br>_ React<br>_ Node<br>_ Express<br>_ Sequelize<br><br>Busco especializarme en el lado del back 👀, por lo que también estoy aprendiendo sobre PHP y Laravel 🚀<br><br>Contáctame y lleguemos a acuerdos para trabajar juntos 😄 🙌🏼
+Hola 👋, soy Alberto Arphaxad, licenciado en Ciencias Computacionales con formación para desarrollo web 🧑🏻‍💻<br><br>Actualmente me encuentro en formación aprendiendo y asentando tecnologías como 💻:<br><br>_ Javascript<br>_ Tailwind CSS<br>_ React<br>_ Node<br>_ Express<br>_ Sequelize<br><br>Busco especializarme en el lado del back 👀, por lo que también estoy aprendiendo sobre Java con Spring 🚀<br><br>Contáctame y lleguemos a acuerdos para trabajar juntos 😄 🙌🏼
 
 ## 🌐 Socials:
 
